@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: #8CEB61;
+}
+
+
+.d-flex sea{
+    border-radius: none;
+}
+
+
+.car{
+    background-color: #8CEB61;
+    border-radius: 2rem;
+    height: 2rem;
+}
+
+.bx bx-cart{
+    background-color: black;
+}
+
+
+.user{
+    border-radius: 2rem;
+    background-color: rgba(72, 70, 70, 0.822);
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20rem;
+
+}
+
+
+.colors{
+    display: flex;
+    flex-direction: row;
+    border-radius: 50%;
+}
+
+
+.uno{
+    width: 50px;
+    height: 50px;
+    background-color: #898989;
+}
+
+.dos{
+    width: 50px;
+    height: 50px;
+    background-color: #44593E;
+}
+
+
+.tres{
+    width: 50px;
+    height: 50px;
+    background-color: #586F98;
+}
